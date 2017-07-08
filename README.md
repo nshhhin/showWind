@@ -1,5 +1,5 @@
-# showWind
-1年分の風向き・風量をわかりやすく可視化するシステム
+### showWind
+1年分の埼玉における風向き・風量をわかりやすく可視化するシステム。ウェブコンテンツという授業の課題のために、Processingで実装。2010年のデータ以外も見れるようにしたい。埼玉以外のデータも見れるようにしたい。
 
 <div align = "CENTER">
 <img src="https://github.com/nshhhin/Images/blob/master/showWind_gif.gif" width = "800px" height = "auto" >
